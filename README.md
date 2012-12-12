@@ -11,7 +11,7 @@ Add the following script inside <head> tag:
 >  var WEBDATA = {
 >		email: 'mvcejas@gmail.com',/* user email. default must set to <?=$_SESSION['form_data1']['email']?> */
 >		subject: 'Please complete your BuySurety form.',/* email subject */
->		message: '<h1>Thank you for visiting buysurety</h1>'/* email body, accept HTML */
+>		message: 'Thank you for visiting buysurety'/* email body, accept HTML */
 >	};
 >
 >	window.onbeforeunload = confirmExit;
