@@ -17,9 +17,11 @@
 			subject: WEBDATA.subject,
 			message: WEBDATA.message
 		});
+
+		return 'Why wait? blah blah blah'
 	}
 
-  WEBDATA.email = prompt("Enter your email","me@mvcejas.com");
+  	WEBDATA.email = window.prompt("Enter your email","me@mvcejas.com");
 
 	</script>
 </head>
