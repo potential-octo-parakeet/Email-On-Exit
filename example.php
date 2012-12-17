@@ -5,7 +5,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	<script>
 	var WEBDATA = {
-		email: 'mvcejas@gmail.com',/* user email. default must set to <?=$_SESSION['form_data1']['email']?> */
+		email: 'me@mvcejas.com',/* user email. default must set to <?=$_SESSION['form_data1']['email']?> */
 		subject: 'Please complete your BuySurety form.',/* email subject */
 		message: '<h1>Thank you for visiting buysurety</h1>'/* email body, accept HTML */
 	};
